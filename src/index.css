@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+/* Puri website se scrollbar hide karne ke liye */
+html,
+body {
+    /* Firefox */
+    scrollbar-width: none;
+
+    /* IE aur Edge */
+    -ms-overflow-style: none;
+}
+
+/* Chrome, Safari aur Opera */
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+    display: none;
+}
