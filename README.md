@@ -7,9 +7,7 @@ The goal of this project was to build more than just a static product website. I
 ## 🌐 Live Demo
 
 **Live Website:**  
-https://your-live-demo-link.com
-
-> Replace the link above with your deployed website URL after hosting the project on Vercel, Netlify, or another hosting platform.
+https:[//your-live-demo-link.com](https://sole-ecommerce-web.netlify.app/)
 
 ## 📸 Project Overview
 
