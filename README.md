@@ -7,7 +7,7 @@ The goal of this project was to build more than just a static product website. I
 ## 🌐 Live Demo
 
 **Live Website:**  
-https:[//live-demo-link.com](https://sole-ecommerce-web.netlify.app/)
+https:[Live-demo-Sole-Ecommerce-website](https://sole-ecommerce-web.netlify.app/)
 
 ## 📸 Project Overview
 
